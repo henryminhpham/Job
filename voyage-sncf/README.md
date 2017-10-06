@@ -39,10 +39,15 @@ Solution
 1. Compile: javac Main.javac
 2. Run: java Main 
 3. Result (Output from Netbean IDE)
+
 --- exec-maven-plugin:1.2.1:exec (default-cli) @ voyage-sncf ---
+
 Input items sorted by size: 9;8;8;7;7;6;6;5;5;4;3;3;2;1;1;
+
 Possible packs: 
+
 9;1;/8;1;/8;2;/7;3;/7;3;/6;4;/6;/5;5;/
+
 Total time: 0.877s
+
 Finished at: Fri Oct 06 19:00:56 CEST 2017
-------------------------------------------------------------------------
